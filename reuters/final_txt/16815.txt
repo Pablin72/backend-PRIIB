@@ -1,0 +1,1 @@
+ENDATA ltDATAO 1ST QTR NET Oper shr 16 cts 11 cts Oper net 660000 447000 Revs 9936000 9005000 NOTE 1986 net excludes 381000 dlr tax credit
