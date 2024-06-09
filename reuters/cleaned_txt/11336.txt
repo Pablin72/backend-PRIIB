@@ -1,0 +1,13 @@
+4G DATA SYSTEMS ltGGGG 3RD QTR NET
+  qtr ends Jan 31
+      Shr nil vs nil
+      Net 2213 vs 16288
+      Revs 1418019 vs 795522
+      Avg shrs 6650000 vs 4150000
+      Nine mths
+      Shr two cts vs three cts
+      Net 118984 vs 103384
+      Revs 4066605 vs 2741241
+      Avg shrs 6650000 vs 3969444
+  
+

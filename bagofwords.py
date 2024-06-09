@@ -1,7 +1,7 @@
 import os
 from sklearn.feature_extraction.text import CountVectorizer
 
-def bagofwords(directory='reuters/final_txt'):
+def bagofwords(directory='reuters/cleaned_txt'):
     filenames = []
     all_sentences = []
 
@@ -11,7 +11,7 @@ def bagofwords(directory='reuters/final_txt'):
             all_sentences.append(content)
             filenames.append(filename)
 
-    vectorizer_bow = CountVectorizer()
+    vectorizer_bow = CountVectorizer(stop_words='english')
     X_bow = vectorizer_bow.fit_transform(all_sentences)
 
     terms_bow = vectorizer_bow.get_feature_names_out()

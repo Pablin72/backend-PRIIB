@@ -1,0 +1,15 @@
+MEM COM INC ltMEM 4TH QTR NET
+  Oper shr 93 cts vs 32 cts
+      Oper net 2443810 vs 847609
+      Revs 303 mln vs 210 mln
+      12 mths
+      Oper shr 116 dlrs vs 85 cts
+      Oper net 3066407 vs 2250781
+      Revs 709 mln vs 618 mln
+      NOTE qtr 1985 excludes gain 96327 dlrs for discontinued
+  operations of Lebanon Packaging
+      Year 1986 and year prior excludes loss 62216 dlrs and
+  gain 281367 dlrs respectively for discontinued operations on
+  Lebanon sale
+  
+

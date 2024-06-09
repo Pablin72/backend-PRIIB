@@ -1,0 +1,17 @@
+FCOJ MOVEMENT 3915370 GALLONS LAST WEEK
+  Florida Citrus Processors
+  Association said frozen concentrate orange juice movement into
+  trade channels in the week ended March 7 totalled 3915370
+  gallons versus 3956126 gallons in the week ended February 28
+  and 4284693 gallons in the corresponding yearago period
+      There were 3814891 gallons of foreign imports last week
+  versus 133505 gallons the week before Domestic imports last
+  week were 306031 Retail movement was 1652916 versus
+  2015953 a year ago Bulk movement was 1934494 against
+  1954103 a year earlier
+      Current season cumulative movement was 60480375 gallons
+  versus 59654702 last year Cumulative net pack for the season
+  was 80359978 versus 74071755 a year ago Inventory was
+  83422435 versus 81963040 a year ago
+  
+

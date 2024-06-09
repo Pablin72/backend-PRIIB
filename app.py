@@ -12,10 +12,10 @@ def serve_index():
 @app.route('/search', methods=['POST'])
 def search():
     data = request.json
-    directory = data.get('directory', 'reuters/final_txt')
+    directory = data.get('directory', 'reuters/cleaned_txt')
     query = data.get('query', '')
 
-    similarity_df = cosine_similarity_search('reuters/final_txt', query)
+    similarity_df = cosine_similarity_search(directory, query)
 
     # Convertir DataFrame a diccionario antes de devolverlo como JSON
     similarity_dict = similarity_df.to_dict(orient='records')

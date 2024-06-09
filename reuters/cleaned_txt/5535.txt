@@ -1,0 +1,6 @@
+202 DATA SYSTEMS INC ltTOOT 1ST QTR JAN 31 NET
+  Shr three cts vs four cts
+      Net 101376 vs 125922
+      Revs 568884 vs 494227
+  
+

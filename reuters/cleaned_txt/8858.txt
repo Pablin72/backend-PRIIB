@@ -1,0 +1,6 @@
+DATA ARCHITECTS INC ltDRCH 1ST QTR FEB 28 NET
+  Shr 19 cts vs 14 cts
+      Net 487000 vs 344000
+      Revs 7492000 vs 5883000
+  
+

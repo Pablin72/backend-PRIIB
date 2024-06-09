@@ -1,0 +1,6 @@
+PAYNSAVE ltPAYN 1ST QTR JAN 31 NET
+  Shr profit one ct vs loss 14 cts
+      Net profit 279000 vs loss 1896000
+      Sales 1996 mln vs 1424 mln
+  
+

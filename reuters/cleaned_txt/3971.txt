@@ -1,0 +1,10 @@
+SOUTHERNNET INC ltSOUT 4TH QTR NET
+  Shr 32 cts vs four cts
+      Net 3370000 vs 353000
+      Revs 278 mln vs 202 mln
+      Year
+      Shr 35 cts vs 67 cts
+      Net 3543000 vs 3845000
+      Revs 1036 mln vs 748 mln
+  
+

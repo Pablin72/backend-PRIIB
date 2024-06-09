@@ -1,0 +1,6 @@
+HEMODYNAMICS INC ltHMDY YEAR LOSS
+  Shr loss 24 cts vs loss 41 cts
+      Net loss 148070 vs loss 251225
+      Sales 1298257 vs 319588
+  
+

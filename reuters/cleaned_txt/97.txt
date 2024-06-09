@@ -1,0 +1,58 @@
+ASCS TERMINAL MARKET VALUES FOR PIK GRAIN
+  The Agricultural Stabilization and
+  Conservation Service ASCS has established these unit values
+  for commodities offered from government stocks through
+  redemption of Commodity Credit Corporation commodity
+  certificates effective through the next business day
+      Price per bushel is in US dollars Sorghum is priced per
+  CWT corn yellow grade only
+       WHEAT     HRW   HRS    SRW   SWW   DURUM
+   Chicago           304   298      
+   Ill Track             316      
+   Toledo            304   298  290  
+   Memphis                305      
+   Peoria                 311      
+   Denver        262  263          
+   Evansville            299      
+   Cincinnati            296      
+   Minneapolis   265  271          370
+   Baltimore
+   NorfPhil           306  298  
+   Kansas City   287      317      
+   St Louis     303      303      
+   Amarillo
+   Lubbock       264              
+                 HRW   HRS   SRW   SWW   DURUM
+   Lou Gulf             316      
+   Portland
+   Seattle       307  308      310  370
+   Stockton      278              
+   LA          323              405
+   Duluth        265  271          370
+   Tex Gulf     310      316      
+  
+               CORN  BRLY  OATS  RYE   SOYB  SORG
+   Chicago     147              481  249
+   Ill Track  149  204          485  252
+   Toledo      141  204  150      478  239
+   Memphis     159  195  171      490  286
+   Peoria      151             480  260
+   Denver      156  156              254
+   Evnsvlle    154  204  150  217  490  261
+   Cinci       152  204  150  217  485  258
+   Mpls        134  175  150  185  468  
+   BaltNor
+   Phil        170  180          498  312
+   KC          149  156  164      476  258
+   St Lo       154      166      490  291
+   Amarlo
+   Lubbck      184  140          475  292
+   Lou Gulf    173              505  312
+   Port
+   Seattle     187  210  168          
+   Stockton    218  223  210          400
+   LA          254  250              438
+   Duluth      134  175  150  185  468  
+   Tex Gulf    173  148  173      505  312
+  
+
