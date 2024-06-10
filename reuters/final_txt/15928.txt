@@ -1,1 +1,0 @@
-RICE SUPPLYDEMAND THAILAND  USDA US Agriculture Department detailed rice supplydemand milledbasis data Thailand worlds major rice exporter mln tonnes  198687 198586 040987 030987 040987 030987 Start Stcks 132 133 146 146 Production 1188 1214 1300 1300 Imports NIL NIL NIL NIL Domes 873 873 880 880 Exports 370 370 434 434 End Stocks 077 104 132 133
