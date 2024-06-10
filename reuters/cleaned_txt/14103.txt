@@ -1,6 +1,0 @@
-ENVIRONMENTAL POWER CORP ltPOWR YEAR NET
-  Shr profit 25 cts vs loss 15 cts
-      Net profit 998000 vs loss 612000
-      Revs 8086000 vs 365000
-  
-

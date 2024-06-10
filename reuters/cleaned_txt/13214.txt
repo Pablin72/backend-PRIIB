@@ -1,9 +1,0 @@
-ltCOMTERM INC YEAR JAN 31 LOSS
-  Oper shr loss 30 cts vs profit eight cts
-      Oper net loss 5887996 vs profit 1620312
-      Revs 324 mln vs 485 mln
-      Note 1987 net excludes extraordinary gain of 27 mln dlrs
-  or 14 cts shr from settlement of provision for discontinued
-  operations vs yrago tax gain of 562248 dlrs or three cts shr
-  
-

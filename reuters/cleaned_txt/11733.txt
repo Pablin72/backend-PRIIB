@@ -1,7 +1,0 @@
-SERVOTRONICS INC ltSVT YEAR NET
-  Oper shr 504 cts vs 487 cts
-      Oper net 688000 vs 665000
-      Revs 123 mln vs 107 mln
-      Note Oper excludes tax credits of 559000 vs 537000
-  
-

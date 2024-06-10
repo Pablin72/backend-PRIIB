@@ -1,7 +1,0 @@
-THERMO PROCESS ltTPSI ACQUISITION TERMINATED
-  Thermo Process Systems Inc said
-  its proposed acquisition of the Surface Combustion Division of
-  privatelyheld ltMidlandRoss Corp has been terminated because
-  mutually satisfactory terms could not be established
-  
-

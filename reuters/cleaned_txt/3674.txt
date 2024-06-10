@@ -1,6 +1,0 @@
-MEM CO INC ltMEM DECLARES QTLY DIV
-  Qtly div 15 cts vs 15 cts prior
-      Pay May 11
-      Record March 31
-  
-

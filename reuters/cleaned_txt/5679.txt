@@ -1,6 +1,0 @@
-NEWCOR INC ltNEW 1ST QTR JAN 31 NET
-  Shr profit four cts vs loss 58 cts
-      Net profit 119000 vs loss 1629000
-      Sales 184 mln vs 170 mln
-  
-

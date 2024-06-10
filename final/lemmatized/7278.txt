@@ -1,0 +1,1 @@
+state STREET BOSTON CORP ltSTBK sets QUARTERLY Qtly div 10 ct 10 ct prior Pay April 15 Record April

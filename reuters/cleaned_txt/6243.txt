@@ -1,7 +1,0 @@
-ltBIOVASCULAR INC 1ST QTR JAN 31 LOSS
-  Shr loss three cts vs profit two cts
-      Net loss 54791 vs profit 28866
-      Sales 1379810 vs 338886
-      Avg shrs 1602717 vs 1331739
-  
-

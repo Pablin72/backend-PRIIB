@@ -1,9 +1,0 @@
-ltMCORP INC YEAR DEC 28 NET
-  Shr 73 cts vs 55 cts
-      Net 1691878 vs 1117747
-      Revs 71 mln vs 49 mln
-      Avg shrs 23 mln vs 20 mln
-      NOTE Share results reflect twoforone stock split in
-  June 1986
-  
-
