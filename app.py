@@ -1,9 +1,13 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 from similarity import cosine_similarity_search
 import pandas as pd  # Importa pandas
 
+import bagofwords as bow
+
 
 app = Flask(__name__, static_folder='static')
+CORS(app)
 
 @app.route('/')
 def serve_index():
@@ -21,6 +25,17 @@ def search():
     similarity_dict = similarity_df.to_dict(orient='records')
 
     return jsonify(similarity_dict)
+
+@app.route('/cosine', methods=['POST'])
+def cosine():
+    data = request.json
+    query = data.get('query')
+
+    similarity_df = cosine_similarity_search(query)
+    print(similarity_df)
+    similarity_json = similarity_df.to_dict(orient='records')
+
+    return jsonify(similarity_json)
 
 if __name__ == '__main__':
     app.run(debug=True)

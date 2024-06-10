@@ -1,20 +1,34 @@
 import os
 import pandas as pd
-from sklearn.feature_extraction.text import CountVectorizer
+# from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+import pickle
 
-def cosine_similarity_search(directory, query):
-    filenames = []
-    all_sentences = []
+# def cosine_similarity_search(directory, query):
+def cosine_similarity_search(query):
+    # filenames = []
+    # all_sentences = []
 
-    for filename in os.listdir(directory):
-        with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
-            content = file.read()
-            all_sentences.append(content)
-            filenames.append(filename)
+    # for filename in os.listdir(directory):
+    #     with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
+    #         content = file.read()
+    #         all_sentences.append(content)
+    #         filenames.append(filename)
 
-    vectorizer_bow = CountVectorizer()
-    X_bow = vectorizer_bow.fit_transform(all_sentences)
+    # vectorizer_bow = CountVectorizer()
+    # X_bow = vectorizer_bow.fit_transform(all_sentences)
+
+    # Load the vectorizer and transformed data
+    with open('reuters/vectorizer_bow.pkl', 'rb') as vec_file:
+        vectorizer_bow = pickle.load(vec_file)
+    
+    with open('reuters/X_bow.pkl', 'rb') as xb_file:
+        X_bow = pickle.load(xb_file)
+    
+    with open('reuters/filenames.pkl', 'rb') as f_file:
+        filenames = pickle.load(f_file)
+
+    ##
     query_vector = vectorizer_bow.transform([query])
 
     # Calculate cosine similarity scores
