@@ -37,5 +37,25 @@ def cosine():
 
     return jsonify(similarity_json)
 
+# @app.route('/jaccard', methods=['POST'])
+# def jaccard():
+#     data = request.json
+#     query = data.get('query')
+
+#     similarity_df = jaccard_similarity_search(query)
+#     similarity_json = similarity_df.to_dict(orient='records')
+
+#     return jsonify(similarity_json)
+
+# @app.route('/tfidf', methods=['POST'])
+# def tfidf():
+#     data = request.json
+#     query = data.get('query')
+
+#     similarity_df = bow.tfidf_similarity_search(query)
+#     similarity_json = similarity_df.to_dict(orient='records')
+
+#     return jsonify(similarity_json)
+
 if __name__ == '__main__':
     app.run(debug=True)

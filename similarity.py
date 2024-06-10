@@ -1,23 +1,9 @@
 import os
 import pandas as pd
-# from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import pickle
 
-# def cosine_similarity_search(directory, query):
 def cosine_similarity_search(query):
-    # filenames = []
-    # all_sentences = []
-
-    # for filename in os.listdir(directory):
-    #     with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
-    #         content = file.read()
-    #         all_sentences.append(content)
-    #         filenames.append(filename)
-
-    # vectorizer_bow = CountVectorizer()
-    # X_bow = vectorizer_bow.fit_transform(all_sentences)
-
     # Load the vectorizer and transformed data
     with open('reuters/vectorizer_bow.pkl', 'rb') as vec_file:
         vectorizer_bow = pickle.load(vec_file)
@@ -28,7 +14,6 @@ def cosine_similarity_search(query):
     with open('reuters/filenames.pkl', 'rb') as f_file:
         filenames = pickle.load(f_file)
 
-    ##
     query_vector = vectorizer_bow.transform([query])
 
     # Calculate cosine similarity scores
@@ -41,3 +26,5 @@ def cosine_similarity_search(query):
     similarity_df = similarity_df.sort_values(by='Cosine_Similarity', ascending=False)
 
     return similarity_df
+
+# def jaccard_similarity_search(query):
