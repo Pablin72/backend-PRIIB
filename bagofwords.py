@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 import pickle
 
-def bagofwords(directory='reuters/final_txt'):
+def bagofwords(directory='final/Stemmed'):
     filenames = []
     all_sentences = []
 
@@ -20,13 +20,13 @@ def bagofwords(directory='reuters/final_txt'):
     X_bow = vectorizer_bow.fit_transform(all_sentences)
 
     # Save the vectorizer and transformed data
-    with open('reuters/vectorizer_bow.pkl', 'wb') as vec_file:
+    with open('final/Stemmed_vectorizer_bow.pkl', 'wb') as vec_file:
         pickle.dump(vectorizer_bow, vec_file)
     
-    with open('reuters/X_bow.pkl', 'wb') as xb_file:
+    with open('final/Stemmed_X_bow.pkl', 'wb') as xb_file:
         pickle.dump(X_bow, xb_file)
 
-    with open('reuters/filenames.pkl', 'wb') as f_file:
+    with open('final/Stemmed_filenames.pkl', 'wb') as f_file:
         pickle.dump(filenames, f_file)
 
     # array of tokens that correspond to each column
