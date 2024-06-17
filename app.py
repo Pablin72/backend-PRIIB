@@ -10,28 +10,6 @@ CORS(app)
 def serve_index():
     return "This is the main page"
 
-@app.route('/lemmatized/bow/cosine', methods=['POST'])
-def lemmatized_bow_cosine():
-    data = request.json
-    query = data.get('query')
-
-    similarity_df = similarity.lemmatized_bow_cosine_similarity_search(query)
-    print(similarity_df)
-    similarity_json = similarity_df.to_dict(orient='records')
-
-    return jsonify(similarity_json)
-
-@app.route('/stemmed/bow/cosine', methods=['POST'])
-def stemmed_bow_cosine():
-    data = request.json
-    query = data.get('query')
-
-    similarity_df = similarity.stemmed_bow_cosine_similarity_search(query)
-    print(similarity_df)
-    similarity_json = similarity_df.to_dict(orient='records')
-
-    return jsonify(similarity_json)
-
 @app.route('/lemmatized/tfidf/cosine', methods=['POST'])
 def lemmatized_tfidf_cosine():
     data = request.json
@@ -76,27 +54,6 @@ def lemmatized_bow_jaccard():
 
     return jsonify(similarity_json)
 
-@app.route('/stemmed/tfidf/jaccard', methods=['POST'])
-def stemmed_tfidf_jaccard():
-    data = request.json
-    query = data.get('query')
-
-    similarity_df = similarity.stemmed_tfidf_jaccard_similarity_search(query)
-    print(similarity_df)
-    similarity_json = similarity_df.to_dict(orient='records')
-
-    return jsonify(similarity_json)
-
-@app.route('/lemmatized/tfidf/jaccard', methods=['POST'])
-def lemmatized_tfidf_jaccard():
-    data = request.json
-    query = data.get('query')
-
-    similarity_df = similarity.lemmatized_tfidf_jaccard_similarity_search(query)
-    print(similarity_df)
-    similarity_json = similarity_df.to_dict(orient='records')
-
-    return jsonify(similarity_json)
 
 
 if __name__ == '__main__':
