@@ -54,7 +54,5 @@ def lemmatized_bow_jaccard():
 
     return jsonify(similarity_json)
 
-
-
 if __name__ == '__main__':
     app.run(debug=True)
