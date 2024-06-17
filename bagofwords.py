@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 import pickle
 
-def bagofwords(directory='final/Stemmed'):
+def bagofwords_stemmed(directory='final/Stemmed'):
     filenames = []
     all_sentences = []
 
@@ -13,32 +13,70 @@ def bagofwords(directory='final/Stemmed'):
             all_sentences.append(content)
             filenames.append(filename)
 
-    vectorizer_bow = CountVectorizer()
+    vectorizer_bow_stemmed = CountVectorizer()
     # matrix of tokens counts
     # row -> document
     # column -> token
-    X_bow = vectorizer_bow.fit_transform(all_sentences)
+    X_bow_stemmed = vectorizer_bow_stemmed.fit_transform(all_sentences)
 
     # Save the vectorizer and transformed data
-    with open('final/Stemmed_vectorizer_bow.pkl', 'wb') as vec_file:
-        pickle.dump(vectorizer_bow, vec_file)
+    with open('final/BOW/Stemmed_vectorizer_bow.pkl', 'wb') as vec_file:
+        pickle.dump(vectorizer_bow_stemmed, vec_file)
     
-    with open('final/Stemmed_X_bow.pkl', 'wb') as xb_file:
-        pickle.dump(X_bow, xb_file)
+    with open('final/BOW/Stemmed_X_bow.pkl', 'wb') as xb_file:
+        pickle.dump(X_bow_stemmed, xb_file)
 
-    with open('final/Stemmed_filenames.pkl', 'wb') as f_file:
+    with open('final/BOW/Stemmed_filenames.pkl', 'wb') as f_file:
         pickle.dump(filenames, f_file)
 
     # array of tokens that correspond to each column
-    terms_bow = vectorizer_bow.get_feature_names_out()
+    terms_bow_stemmed = vectorizer_bow_stemmed.get_feature_names_out()
 
     # convert sparse matrix to dense matrix
     # each row corresponds to a sentence and each column corresponds to a token
-    X_bow = X_bow.toarray()
+    X_bow_stemmed = X_bow_stemmed.toarray()
 
-    print('Bag of words matrix finished!')
+    print('Bag of words  Stemmed matrix finished!')
     
-    return X_bow
+    return X_bow_stemmed
+
+def bagofwords_lemmatized(directory='final/lemmatized'):
+    filenames = []
+    all_sentences = []
+
+    for filename in os.listdir(directory):
+        with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
+            content = file.read()
+            all_sentences.append(content)
+            filenames.append(filename)
+
+    vectorizer_bow_lemmatized = CountVectorizer()
+    # matrix of tokens counts
+    # row -> document
+    # column -> token
+    X_bow_lemmatized = vectorizer_bow_lemmatized.fit_transform(all_sentences)
+
+    # Save the vectorizer and transformed data
+    with open('final/BOW/Stemmed_vectorizer_bow.pkl', 'wb') as vec_file:
+        pickle.dump(vectorizer_bow_lemmatized, vec_file)
+    
+    with open('final/BOW/Stemmed_X_bow.pkl', 'wb') as xb_file:
+        pickle.dump(X_bow_lemmatized, xb_file)
+
+    with open('final/BOW/Stemmed_filenames.pkl', 'wb') as f_file:
+        pickle.dump(filenames, f_file)
+
+    # array of tokens that correspond to each column
+    terms_bow_stemmed = vectorizer_bow_lemmatized.get_feature_names_out()
+
+    # convert sparse matrix to dense matrix
+    # each row corresponds to a sentence and each column corresponds to a token
+    X_bow_lemmatized = X_bow_lemmatized.toarray()
+
+    print('Bag of words lemmatized matrix finished!')
+    
+    return X_bow_lemmatized
 
 if __name__ == '__main__':
-    bagofwords()
+    bagofwords_stemmed()
+    bagofwords_lemmatized()
