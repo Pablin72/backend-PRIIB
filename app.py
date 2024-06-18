@@ -2,6 +2,9 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import similarity
 import re
+import os
+
+DOCUMENTS_DIR = 'reuters/training_txt'
 
 # app = Flask(__name__, static_folder='static')
 app = Flask(__name__)
@@ -20,6 +23,19 @@ def clean_query(query):
 @app.route('/')
 def serve_index():
     return "This is the main page"
+
+@app.route('/doc/', methods=['GET'])
+def get_doc():
+    doc_id = request.args.get('doc_id')
+    if not doc_id:
+        return jsonify({"error": "doc_id is required"}), 400
+    
+    file_path = os.path.join(DOCUMENTS_DIR, f"{doc_id}")  # Assuming files are in .txt format
+    if not os.path.isfile(file_path):
+        return None
+    with open(file_path, 'r') as file:
+        content = file.read()
+    return {"doc_id": doc_id, "content": content}
 
 @app.route('/lemmatized/tfidf/cosine', methods=['POST'])
 def lemmatized_tfidf_cosine():
