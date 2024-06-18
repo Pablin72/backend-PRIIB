@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 import pickle
 import numpy as np
-
+from scipy.sparse import csr_matrix
 
 def lemmatized_tfidf_cosine_similarity_search(query):
     # Load the vectorizer and transformed data
@@ -53,11 +53,15 @@ def stemmed_tfidf_cosine_similarity_search(query):
 
     return similarity_df
 
-def jaccard_similarity(X, Y):
-    """Calculate the Jaccard similarity between two binary matrices."""
-    intersection = np.logical_and(X, Y).sum(axis=1)
-    union = np.logical_or(X, Y).sum(axis=1)
-    return intersection / union
+
+def jaccard_similarity(query_vector, corpus_matrix):
+
+    query_vector = csr_matrix(query_vector)
+    intersection = query_vector.minimum(corpus_matrix).sum(axis=1)
+    union = query_vector.maximum(corpus_matrix).sum(axis=1)
+    jaccard_scores = intersection / union
+    
+    return jaccard_scores.A1  # Convertir a matriz densa y luego a un array 1D
 
 def stemmed_bow_jaccard_similarity_search(query):
     # Load the vectorizer and transformed data
