@@ -1,7 +1,6 @@
 pandas
 scikit-learn
 flask
-pickle
 flask-cors
 spacy
 snowballstemmer
