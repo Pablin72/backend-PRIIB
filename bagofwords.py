@@ -64,13 +64,13 @@ def bagofwords_lemmatized(directory='final/lemmatized'):
     X_bow_lemmatized = vectorizer_bow_lemmatized.fit_transform(all_sentences)
 
     # Save the vectorizer and transformed data
-    with open('final/BOW/Stemmed_vectorizer_bow.pkl', 'wb') as vec_file:
+    with open('final/BOW/lemmatized_vectorizer_bow.pkl', 'wb') as vec_file:
         pickle.dump(vectorizer_bow_lemmatized, vec_file)
     
-    with open('final/BOW/Stemmed_X_bow.pkl', 'wb') as xb_file:
+    with open('final/BOW/lemmatized_X_bow.pkl', 'wb') as xb_file:
         pickle.dump(X_bow_lemmatized, xb_file)
 
-    with open('final/BOW/Stemmed_filenames.pkl', 'wb') as f_file:
+    with open('final/BOW/lemmatized_filenames.pkl', 'wb') as f_file:
         pickle.dump(filenames, f_file)
 
     # array of tokens that correspond to each column
