@@ -1,1 +1,1 @@
-sceptre RESOURCES ltSRL year NET Shr cts cts Net 5500000 4300000 Revs 691 mln 1153 mln Note Shr prefer divs
+sceptre resource ltsrl year net shr cts cts net 5500000 4300000 revs 691 mln 1153 mln note shr prefer divs

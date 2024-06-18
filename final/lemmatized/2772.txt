@@ -1,1 +1,1 @@
-mdc HOLDINGS ltMDC sets QUARTERLY Qtly div 10 ct 10 ct prior Pay March 31 Record March 16
+mdc holding ltmdc set quarterly qtly div 10 ct 10 ct prior pay march 31 record march 16

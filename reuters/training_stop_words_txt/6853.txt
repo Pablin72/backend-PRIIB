@@ -1,1 +1,1 @@
-XTRA &lt;XTR> BUY FRUEHAUF &lt;FTR> UNIT XTRA Corp agreed acquire stock RentCo Trailer Corp, wholly owned subsidiary Fruehauf Corp 70 mln dlrs. RentCo revenues 70 mln dlrs. transaction expected completed April subject regulatory approval.
+xtra &lt;xtr> buy fruehauf &lt;ftr> unit xtra corp agreed acquire stock rentco trailer corp, wholly owned subsidiary fruehauf corp 70 mln dlrs. rentco revenues 70 mln dlrs. transaction expected completed april subject regulatory approval.

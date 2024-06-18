@@ -1,1 +1,1 @@
-ADVO-SYSTEM &lt;ADVO> SEES BREAK-EVEN 2ND QTR ADVO-System report break quarter ending March 28, 1987 compared loss 1.8 mln dlrs, 16 cts share, fiscal 1986's quarter ended March 29, 1986. ADVO previously announced report net loss quarter.
+advo-system &lt;advo> sees break-even 2nd qtr advo-system report break quarter ending march 28, 1987 compared loss 1.8 mln dlrs, 16 cts share, fiscal 1986's quarter ended march 29, 1986. advo previously announced report net loss quarter.

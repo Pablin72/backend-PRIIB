@@ -1,1 +1,1 @@
-DATAMAG &lt;DMAG> 1ST QTR DEC 31 LOSS Net loss 92,623 profit 11,209 Sales 93,483 189,388 Note: share data available, company public January, 1987.
+datamag &lt;dmag> 1st qtr dec 31 loss net loss 92,623 profit 11,209 sales 93,483 189,388 note: share data available, company public january, 1987.

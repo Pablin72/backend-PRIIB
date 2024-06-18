@@ -1,1 +1,1 @@
-WESTRONIC &lt;WSTX> YEAR LOSS Shr loss 1.13 dlr loss 2.04 dlrs Net loss 3,674,000 loss 3,016,000 Revs 2,894,000 1,464,000
+westronic &lt;wstx> year loss shr loss 1.13 dlr loss 2.04 dlrs net loss 3,674,000 loss 3,016,000 revs 2,894,000 1,464,000

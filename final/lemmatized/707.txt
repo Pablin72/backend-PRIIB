@@ -1,1 +1,1 @@
-green TREE ACCEPTANCE ltgnt set DIVIDEND Qtly dividend 1212 ct 1212 ct Pay March 31 Record March 16
+green tree acceptance ltgnt set dividend qtly dividend 1212 ct 1212 ct pay march 31 record march 16

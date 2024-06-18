@@ -1,1 +1,1 @@
-STANDARD LOGIC ltSTDL 1st QTR LOSS Qtr end Jan 30 Oper shr loss 45 ct profit 44 ct Oper Net loss 225815 profit 219593 Revs 175247 827748 NOTE oper net 1987 exclude loss discontinued operation 125047 loss 34055 prior qtr exclude tax carryforward 150000 prior qtr
+standard logic ltstdl 1st qtr loss qtr end jan 30 oper shr loss 45 ct profit 44 cts oper net loss 225815 profit 219593 revs 175247 827748 note oper net 1987 exclude loss discontinued operation 125047 loss 34055 prior qtr exclude tax carryforward 150000 prior qtr

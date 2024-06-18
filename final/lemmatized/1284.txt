@@ -1,1 +1,1 @@
-margaux controls ltmargx 3rd qtr loss Shr loss 160 dlrs loss 45 ct net loss 9883000 loss 2744000 Revs 1309000 3289000 mth shr loss 229 dlrs loss 98 ct net loss 141 mln loss 6008000 Revs 4577000 119 mln NOTE current period include loss 75 mln dlrs discontinue operation
+margaux control ltmargx 3rd qtr loss shr loss 160 dlrs loss 45 ct net loss 9883000 loss 2744000 revs 1309000 3289000 mth shr loss 229 dlrs loss 98 ct net loss 141 mln loss 6008000 revs 4577000 119 mln note current period include loss 75 mln dlrs discontinue operation

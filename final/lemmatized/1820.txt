@@ -1,1 +1,1 @@
-MEDTRONIC ltMDT sets PAYOUT Qtly dividend 22 ct 22 ct Pay April 30 Record April 10
+medtronic ltmdt set payout qtly dividend 22 ct 22 ct pay april 30 record april 10

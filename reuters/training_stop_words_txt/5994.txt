@@ -1,1 +1,1 @@
-SYSTEMATICS &lt;SYST> 3RD QTR FEB 28 NET Shr 33 cts 27 cts Net 3,588,000 2,981,000 Revs 37.8 mln 31.6 mln mths Shr 72 cts 76 cts Net 7,843,000 8,344,000 Revs 103.3 mln 90.8 mln
+systematics &lt;syst> 3rd qtr feb 28 net shr 33 cts 27 cts net 3,588,000 2,981,000 revs 37.8 mln 31.6 mln mths shr 72 cts 76 cts net 7,843,000 8,344,000 revs 103.3 mln 90.8 mln

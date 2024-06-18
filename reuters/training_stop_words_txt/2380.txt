@@ -1,1 +1,1 @@
-ELECTRO-SENSORS &lt;ELSE> YEAR OPER NET Oper shr 52 cts 51 cts Oper net 626,013 613,127 Sales 4,544,929 4,402,572 NOTE: Earnings exclude extraordinary securities loss 29,532 dlrs, cts share gain 81,358 dlrs, cts share
+electro-sensors &lt;else> year oper net oper shr 52 cts 51 cts oper net 626,013 613,127 sales 4,544,929 4,402,572 note: earnings exclude extraordinary securities loss 29,532 dlrs, cts share gain 81,358 dlrs, cts share

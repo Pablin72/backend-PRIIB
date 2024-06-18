@@ -1,1 +1,1 @@
-SERVOTRONICS ltSVT year NET Oper shr 504 ct 487 ct Oper net 688000 665000 Revs 123 mln 107 mln Note Oper exclude tax credit 559000 537000
+servotronic ltsvt year net oper shr 504 ct 487 cts oper net 688000 665000 revs 123 mln 107 mln note oper exclude tax credit 559000 537000

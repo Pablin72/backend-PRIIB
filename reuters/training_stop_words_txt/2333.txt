@@ -1,1 +1,1 @@
-BLOCKER ENERGY CORP &lt;BLK> YEAR NET Oper shr profit 11 cts loss 2.45 dlrs Oper net profit 3,594,000 loss 81.9 mln Revs 38.5 mln 48.2 mln NOTE: 1986 net excludes 68.5 mln dlr gain debt extinguishment. 1985 net includes 72.0 mln dlr writedown drilling rigs.
+blocker energy corp &lt;blk> year net oper shr profit 11 cts loss 2.45 dlrs oper net profit 3,594,000 loss 81.9 mln revs 38.5 mln 48.2 mln note: 1986 net excludes 68.5 mln dlr gain debt extinguishment. 1985 net includes 72.0 mln dlr writedown drilling rigs.

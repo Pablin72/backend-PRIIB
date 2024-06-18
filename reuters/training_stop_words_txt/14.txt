@@ -1,1 +1,1 @@
-BROWN-FORMAN &lt;BFD> 4TH QTR NET Shr dlr 73 cts Net 12.6 mln 15.8 mln Revs 337.3 mln 315.2 mln mths Shr 3.07 dlrs 3.08 dlrs Net 66 mln 66.2 mln Revs 1.59 billion 997.1 mln
+brown-forman &lt;bfd> 4th qtr net shr dlr 73 cts net 12.6 mln 15.8 mln revs 337.3 mln 315.2 mln mths shr 3.07 dlrs 3.08 dlrs net 66 mln 66.2 mln revs 1.59 billion 997.1 mln

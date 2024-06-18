@@ -1,1 +1,1 @@
-DIONICS &lt;DION> YEAR NET Shr cts 10 cts Net 127,000 168,100 Revs 2,807,400 3,042,900
+dionics &lt;dion> year net shr cts 10 cts net 127,000 168,100 revs 2,807,400 3,042,900

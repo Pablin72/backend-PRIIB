@@ -1,1 +1,1 @@
-electrosensors ltELSE year OPER NET Oper shr 52 ct 51 ct Oper net 626013 613127 sale 4544929 4402572 note earning exclude extraordinary security loss 29532 dlrs ct share gain 81358 dlrs ct share
+electrosensor ltelse year oper net oper shr 52 ct 51 cts oper net 626013 613127 sale 4544929 4402572 note earning exclude extraordinary security loss 29532 dlrs ct share gain 81358 dlrs ct share

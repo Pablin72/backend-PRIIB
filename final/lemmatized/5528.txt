@@ -1,1 +1,1 @@
-ltTEECO PROPERTIES lp set cash distribution Qtly distribution 10 ct unit 10 ct prior Pay April 20 Record March 31
+ltteeco property lp set cash distribution qtly distribution 10 ct unit 10 ct prior pay april 20 record march 31

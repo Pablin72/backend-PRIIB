@@ -1,1 +1,1 @@
-MEDICAL PROPERTIES ltmpp SETS MONTHLY DIVIDEND board Medical Properties declare initial monthly cash dividend 1112 ct share adopt monthly dividend policy initial dividend payable April 10 shareholder record March 31
+medical property ltmpp set monthly dividend board medical property declare initial monthly cash dividend 1112 ct share adopt monthly dividend policy initial dividend payable april 10 shareholder record march 31

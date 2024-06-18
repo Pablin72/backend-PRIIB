@@ -1,1 +1,1 @@
-FFB &lt;FFCT> SETS INITIAL QUARTERLY DIVIDEND FFB Corp, parent Federal Bank Connecticut FSB, declared initial quarterly dividend cts share. company dividend payable March 31 holders record March 17.
+ffb &lt;ffct> sets initial quarterly dividend ffb corp, parent federal bank connecticut fsb, declared initial quarterly dividend cts share. company dividend payable march 31 holders record march 17.

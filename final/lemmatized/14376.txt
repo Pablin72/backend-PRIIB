@@ -1,1 +1,1 @@
-GENERAL partner terminate OFFER GENCORP GENERAL partner terminate OFFER gencorp
+general partner terminate offer gencorp general partner terminate offer gencorp

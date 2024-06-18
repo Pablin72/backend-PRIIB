@@ -1,1 +1,1 @@
-CULP ltCULP sets QUARTERLY Qtly div cts cts prior pay 26 Record April 21
+culp ltculp set quarterly qtly div cts cts prior pay 26 record april 21

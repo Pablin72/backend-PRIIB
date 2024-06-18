@@ -1,1 +1,1 @@
-HARRIS-TEETER PROPERTIES &lt;HTP> SETS PAYOUT Qtly div 24 cts 24 cts prior Pay Record April 17
+harris-teeter properties &lt;htp> sets payout qtly div 24 cts 24 cts prior pay record april 17

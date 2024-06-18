@@ -1,1 +1,1 @@
-COBANCO ltCBCO year NET Shr 34 ct 119 dlrs Net 807000 2858000 Assets 5102 mln 4797 mln deposit 4723 mln 4403 mln Loans 2992 mln 3272 mln Note 4th qtr available Year include 1985 extraordinary gain tax carry forward 132000 dlrs cts shr
+cobanco ltcbco year net shr 34 ct 119 dlrs net 807000 2858000 asset 5102 mln 4797 mln deposit 4723 mln 4403 mln loan 2992 mln 3272 mln note 4th qtr available year include 1985 extraordinary gain tax carry forward 132000 dlrs cts shr

@@ -1,1 +1,1 @@
-STANLINE &lt;STAN> REGULAR DIVIDEND Qtly div cts cts prior qtr Payable April 30 Record April 15 Company board intends declare cash dividends quarterly plans pay pct stock dividend annually close fiscal year. initial pct stock dividend paid December 22 holders record November 30.
+stanline &lt;stan> regular dividend qtly div cts cts prior qtr payable april 30 record april 15 company board intends declare cash dividends quarterly plans pay pct stock dividend annually close fiscal year. initial pct stock dividend paid december 22 holders record november 30.

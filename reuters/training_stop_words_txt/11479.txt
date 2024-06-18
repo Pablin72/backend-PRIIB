@@ -1,1 +1,1 @@
-PUBCO CORP &lt;PUBO> YEAR NET Oper shr 12 cts cts Oper net 4,027,852 3,200,837 Revs 100.2 mln 46.0 mln Note: Oper net excludes tax credits 517,916 198,000 Current year results include proceeds termination pension plan.
+pubco corp &lt;pubo> year net oper shr 12 cts cts oper net 4,027,852 3,200,837 revs 100.2 mln 46.0 mln note: oper net excludes tax credits 517,916 198,000 current year results include proceeds termination pension plan.

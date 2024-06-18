@@ -1,1 +1,1 @@
-CULP &lt;CULP> SETS QUARTERLY Qtly div cts cts prior Pay 26 Record April 21
+culp &lt;culp> sets quarterly qtly div cts cts prior pay 26 record april 21

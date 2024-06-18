@@ -1,1 +1,1 @@
-CRAMER &lt;CRMR> 4TH QTR LOSS Shr loss cts loss 1.39 dlrs Net loss 94,000 loss 1,569,000 Sales 6,951,000 5,518,000 Year Shr profit cts loss 2.95 dlrs Net profit 41,000 loss 3,333,000 Sales 25.3 mln 22.9 mln
+cramer &lt;crmr> 4th qtr loss shr loss cts loss 1.39 dlrs net loss 94,000 loss 1,569,000 sales 6,951,000 5,518,000 year shr profit cts loss 2.95 dlrs net profit 41,000 loss 3,333,000 sales 25.3 mln 22.9 mln

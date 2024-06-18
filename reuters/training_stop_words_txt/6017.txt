@@ -1,1 +1,1 @@
-GANTOS &lt;GTOS> 4TH QTR JAN 31 NET Shr 43 cts 37 cts Net 2,276,000 1,674,000 Sales 31.9 mln 23.9 mln Avg shrs 5.3 mln 4.5 mln Year Shr 90 cts 69 cts Net 4,508,000 3,096,000 Sales 98.4 mln 75.0 mln Avg shrs 5.0 mln 4.5 mln
+gantos &lt;gtos> 4th qtr jan 31 net shr 43 cts 37 cts net 2,276,000 1,674,000 sales 31.9 mln 23.9 mln avg shrs 5.3 mln 4.5 mln year shr 90 cts 69 cts net 4,508,000 3,096,000 sales 98.4 mln 75.0 mln avg shrs 5.0 mln 4.5 mln

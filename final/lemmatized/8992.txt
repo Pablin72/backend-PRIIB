@@ -1,1 +1,1 @@
-PROCESS ltNOZ SETS QTLY PAYOUT Process declare quarterly dividend 1212 ct regular dividend pay quarter year dividend payable 1 shareholder record April 10 year Process pay annual dividend 118 dlrs pay 1212 ct share quarter fourth quarter dividend 8012 ct
+process ltnoz set qtly payout process declare quarterly dividend 1212 ct regular dividend pay quarter year dividend payable 1 shareholder record april 10 year process pay annual dividend 118 dlrs pay 1212 ct share quarter fourth quarter dividend 8012 ct

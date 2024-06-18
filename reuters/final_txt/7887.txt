@@ -1,1 +1,1 @@
-ltBIFLYX 2ND QTR DEC 31 NET Shr nil nil Net profit 24000 loss 66000 Revs 235000 93000 mths Shr nil nil Net profit 40000 loss 153000 Revs 394000 99000
+ltbiflyx 2nd qtr dec 31 net shr nil nil net profit 24000 loss 66000 revs 235000 93000 mths shr nil nil net profit 40000 loss 153000 revs 394000 99000

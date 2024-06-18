@@ -1,1 +1,1 @@
-HUMANA &lt;HUM> 2ND QTR FEB 28 NET Shr 44 cts 54 cts Net 42.9 mln 53.7 mln Revs 983.3 mln 858.8 mln mths Shr 85 cts 1.11 dlrs Net 83.1 mln 109.8 mln Revs 1.91 billion 1.66 billion
+humana &lt;hum> 2nd qtr feb 28 net shr 44 cts 54 cts net 42.9 mln 53.7 mln revs 983.3 mln 858.8 mln mths shr 85 cts 1.11 dlrs net 83.1 mln 109.8 mln revs 1.91 billion 1.66 billion

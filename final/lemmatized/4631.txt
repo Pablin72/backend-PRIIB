@@ -1,1 +1,1 @@
-JAPAN set 198788 HALF beef IMPORT QUOTA Agriculture Ministry set Japans beef import quota month April 1 93000 tonne 83000 half 198687 85000 year early agreement US Australia Japan increase import 9000 tonne year March 31 1985 reach project 177000 tonne year March 31 1988
+japan set 198788 half beef import quota agriculture ministry set japans beef import quota month april 1 93000 tonne 83000 half 198687 85000 year early agreement we australia japan increase import 9000 tonne year march 31 1985 reach project 177000 tonne year march 31 1988

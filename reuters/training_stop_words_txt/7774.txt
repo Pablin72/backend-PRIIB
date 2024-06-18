@@ -1,1 +1,1 @@
-FINAL TEST &lt;FNLT> 4TH QTR LOSS Shr loss cts loss 88 cts Net loss 128,141 loss 1,298,377 Sales 1,332,218 385,146 Year Shr profit cts loss 1.47 dlrs Net profit 120,571 loss 2,171,011 Sales 4,617,034 2,959,141
+final test &lt;fnlt> 4th qtr loss shr loss cts loss 88 cts net loss 128,141 loss 1,298,377 sales 1,332,218 385,146 year shr profit cts loss 1.47 dlrs net profit 120,571 loss 2,171,011 sales 4,617,034 2,959,141

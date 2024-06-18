@@ -1,1 +1,1 @@
-SOUTHERNNET &lt;SOUT> 4TH QTR NET Shr 32 cts cts Net 3,370,000 353,000 Revs 27.8 mln 20.2 mln Year Shr 35 cts 67 cts Net 3,543,000 3,845,000 Revs 103.6 mln 74.8 mln
+southernnet &lt;sout> 4th qtr net shr 32 cts cts net 3,370,000 353,000 revs 27.8 mln 20.2 mln year shr 35 cts 67 cts net 3,543,000 3,845,000 revs 103.6 mln 74.8 mln

@@ -1,1 +1,1 @@
-PITT-DES MOINES &lt;PDM> ACQUIRE STEEL UNIT Pitt-Des Moines acquire &lt;Chicago Steel Corp> exchange portion stock.
+pitt-des moines &lt;pdm> acquire steel unit pitt-des moines acquire &lt;chicago steel corp> exchange portion stock.

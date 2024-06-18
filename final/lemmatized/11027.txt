@@ -1,1 +1,1 @@
-primebank ltPMBK SETS 10 PCT STOCK DIVIDEND PrimeBank Federal Savings Bank board declare 10 pct stock dividend distribute April 15 holder record March 31
+primebank ltpmbk set 10 pct stock dividend primebank federal saving bank board declare 10 pct stock dividend distribute april 15 holder record march 31

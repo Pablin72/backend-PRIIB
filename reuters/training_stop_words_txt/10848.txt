@@ -1,1 +1,1 @@
-TENNECO &lt;TGT> BUYS UNISYS &lt;UIS> UNIT Tenneco Newport News Shipbuilding subsidiary completed purchase Sperry Marine Systems division Unisys Corp 70 mln dlrs. Sperry Marine annual revenues 100 mln dlrs.
+tenneco &lt;tgt> buys unisys &lt;uis> unit tenneco newport news shipbuilding subsidiary completed purchase sperry marine systems division unisys corp 70 mln dlrs. sperry marine annual revenues 100 mln dlrs.

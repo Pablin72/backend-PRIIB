@@ -1,1 +1,1 @@
-PROCESS &lt;NOZ> SETS QTLY PAYOUT Process declared quarterly dividend 12-1/2 cts, regular dividend pays quarters year. dividend payable 1 shareholders record April 10. year, Process paid annual dividend 1.18 dlrs paying 12-1/2 cts share quarters fourth quarter dividend 80-1/2 cts.
+process &lt;noz> sets qtly payout process declared quarterly dividend 12-1/2 cts, regular dividend pays quarters year. dividend payable 1 shareholders record april 10. year, process paid annual dividend 1.18 dlrs paying 12-1/2 cts share quarters fourth quarter dividend 80-1/2 cts.

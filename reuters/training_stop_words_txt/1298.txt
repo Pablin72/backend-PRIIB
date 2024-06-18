@@ -1,1 +1,1 @@
-MCA &lt;MCA> SETS REGULAR QTRLY PAYOUT Qtrly div 17 cts 17 cts prior Pay April 13 Record March 25
+mca &lt;mca> sets regular qtrly payout qtrly div 17 cts 17 cts prior pay april 13 record march 25

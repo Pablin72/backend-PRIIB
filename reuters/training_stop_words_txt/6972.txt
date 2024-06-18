@@ -1,1 +1,1 @@
-SWISSAIR &lt;SWSZ.Z> YEAR 1986 Net 64.5 mln Swiss francs 68.5 mln Div 33 francs share 38 Turnover 4.03 billion 4.35 billion.
+swissair &lt;swsz.z> year 1986 net 64.5 mln swiss francs 68.5 mln div 33 francs share 38 turnover 4.03 billion 4.35 billion.

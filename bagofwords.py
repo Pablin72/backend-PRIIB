@@ -3,7 +3,13 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 import pickle
 
+def ensure_directory_exists(directory):
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
 def bagofwords_stemmed(directory='final/Stemmed'):
+    ensure_directory_exists('final/BOW')
+
     filenames = []
     all_sentences = []
 
@@ -41,6 +47,7 @@ def bagofwords_stemmed(directory='final/Stemmed'):
     return X_bow_stemmed
 
 def bagofwords_lemmatized(directory='final/lemmatized'):
+    ensure_directory_exists('final/BOW')
     filenames = []
     all_sentences = []
 

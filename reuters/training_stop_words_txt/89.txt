@@ -1,1 +1,1 @@
-SYSTEMATICS &lt;SYST> REGULAR PAYOUT Qtly div cts cts prior Pay March 13 Record February 27
+systematics &lt;syst> regular payout qtly div cts cts prior pay march 13 record february 27

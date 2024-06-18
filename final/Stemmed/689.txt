@@ -1,1 +1,1 @@
-ROSPATCH RESPOND DIAGNOSTIC BID ROSPATCH RESPOND DIAGNOSTIC BID
+rospatch respond diagnost bid rospatch respond diagnost bid

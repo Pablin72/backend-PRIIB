@@ -1,1 +1,1 @@
-DUNE RESOURCES &lt;DNLAF> 4TH QTR NET Shr profit ct loss cts Net profit 27,000 loss 69,000 Revs 295,000 264,000 Year Shr loss cts loss cts Net loss 262,000 loss 88,000 Revs 1,004,000 1,248,000
+dune resources &lt;dnlaf> 4th qtr net shr profit ct loss cts net profit 27,000 loss 69,000 revs 295,000 264,000 year shr loss cts loss cts net loss 262,000 loss 88,000 revs 1,004,000 1,248,000

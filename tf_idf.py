@@ -3,7 +3,14 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pickle
 
+def ensure_directory_exists(directory):
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
 def tfidf_lemmatized(directory='final/lemmatized'):
+    # Ensure the output directory exists
+    ensure_directory_exists('final/TF-IDF')
+
     filenames = []
     all_sentences = []
 
@@ -40,7 +47,10 @@ def tfidf_lemmatized(directory='final/lemmatized'):
     
     return X_tfidf_lemmatized
 
-def tfidf_stemmed(directory='final/Stemmed'):
+def tfidf_stemmed(directory='final/stemmed'):
+    # Ensure the output directory exists
+    ensure_directory_exists('final/TF-IDF')
+
     filenames = []
     all_sentences = []
 

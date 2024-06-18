@@ -1,1 +1,1 @@
-api DISTILLATE STOCKS 735 MLN bbls gasoline 289 mln CRUDE 439 MLN api DISTILLATE STOCKS 735 MLN bbls gasoline 289 mln CRUDE 439 MLN
+api distillate stock 735 mln bbls gasoline 289 mln crude 439 mln api distillate stock 735 mln bbls gasoline 289 mln crude 439 mln

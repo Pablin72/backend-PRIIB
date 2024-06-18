@@ -1,1 +1,1 @@
-BOSTON BANCORP &lt;SBOS> SETS SPLIT Boston Bancorp board declared two-for-one stock split, payable March 31, record March 17.
+boston bancorp &lt;sbos> sets split boston bancorp board declared two-for-one stock split, payable march 31, record march 17.

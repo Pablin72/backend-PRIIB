@@ -1,1 +1,1 @@
-ltCOMTERM INC YEAR JAN 31 loss Oper shr loss 30 ct profit ct Oper net loss 5887996 profit 1620312 Revs 324 mln 485 mln Note 1987 net exclude extraordinary gain 27 mln dlrs 14 ct shr settlement provision discontinue operation yrago tax gain 562248 dlrs cts shr
+ltcomterm inc year jan 31 loss oper shr loss 30 ct profit cts oper net loss 5887996 profit 1620312 revs 324 mln 485 mln note 1987 net exclude extraordinary gain 27 mln dlrs 14 ct shr settlement provision discontinue operation yrago tax gain 562248 dlrs cts shr

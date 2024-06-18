@@ -1,1 +1,1 @@
-STANLINE &lt;STAN> 1ST QTR JAN 31 NET Shr 20 cts 15 cts Net 345,970 257,252 Revs 14.0 mln 13.4 mln NOTE: Share adjusted pct stock dividend December 1986.
+stanline &lt;stan> 1st qtr jan 31 net shr 20 cts 15 cts net 345,970 257,252 revs 14.0 mln 13.4 mln note: share adjusted pct stock dividend december 1986.

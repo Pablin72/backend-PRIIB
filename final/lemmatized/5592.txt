@@ -1,1 +1,1 @@
-ADVANCE circuit ltadvc 2nd QTR FEB 28 NET Oper shr profit ct loss 22 ct Oper net profit 35000 loss 948000 Revs 174 mln 138 mln mth Oper shr loss 23 ct loss 48 ct Oper net loss 1025000 loss 2093000 Revs 325 mln 276 mln NOTE result exclude credit 1737000 39 ct shr 1987 period refinance debt
+advance circuit ltadvc 2nd qtr feb 28 net oper shr profit ct loss 22 ct oper net profit 35000 loss 948000 revs 174 mln 138 mln mth oper shr loss 23 ct loss 48 ct oper net loss 1025000 loss 2093000 revs 325 mln 276 mln note result exclude credit 1737000 39 ct shr 1987 period refinance debt

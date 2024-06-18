@@ -1,1 +1,1 @@
-CSP &lt;CSPI> 2ND QTR FEB 28 NET Shr ct 21 cts Net 24,000 612,000 Sales 2,061,000 3,914,000 1st half Shr cts 43 cts Net 223,000 1,220,000 Sales 4,584,000 7,912,000
+csp &lt;cspi> 2nd qtr feb 28 net shr ct 21 cts net 24,000 612,000 sales 2,061,000 3,914,000 1st half shr cts 43 cts net 223,000 1,220,000 sales 4,584,000 7,912,000

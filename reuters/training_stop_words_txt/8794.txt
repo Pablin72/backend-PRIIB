@@ -1,1 +1,1 @@
-PREWAY &lt;PREW> 4TH QTR LOSS Shr loss 64 cts loss 1.29 dlrs Net loss 5,732,000 loss 4,924,000 Sales 18.8 mln 23.6 mln Avg shrs 9.0 mln 3.8 mln Year Shr loss 1.82 dlrs loss 3.65 dlrs Net loss 12,267,000 loss 13,911,000 Sales 112.8 mln 129.3 mln Avg shrs 6.7 mln 3.8 mln
+preway &lt;prew> 4th qtr loss shr loss 64 cts loss 1.29 dlrs net loss 5,732,000 loss 4,924,000 sales 18.8 mln 23.6 mln avg shrs 9.0 mln 3.8 mln year shr loss 1.82 dlrs loss 3.65 dlrs net loss 12,267,000 loss 13,911,000 sales 112.8 mln 129.3 mln avg shrs 6.7 mln 3.8 mln

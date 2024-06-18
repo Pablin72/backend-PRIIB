@@ -1,1 +1,1 @@
-api DISTILLATE stock 44 MLN BBLS gasoline 30000 CRUDE 700000 api distillate stock 44 MLN BBLS gasoline 30000 CRUDE 700000
+api distillate stock 44 mln bbls gasoline 30000 crude 700000 api distillate stock 44 mln bbls gasoline 30000 crude 700000

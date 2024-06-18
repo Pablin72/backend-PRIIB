@@ -1,1 +1,1 @@
-HEALTHMATE &lt;HMTE> 4TH QTR LOSS Shr loss cts loss cts Net loss 473,784 loss 489,257 Revs 268.8 mln 81.7 mln Avg shrs 9,245,247 8,035,326 Year Shr loss 17 cts loss 20 cts Net 1,512,534 loss 1,553,592 Revs 1,448,310 515,225 Avg shrs 8,745,132 7,619,863
+healthmate &lt;hmte> 4th qtr loss shr loss cts loss cts net loss 473,784 loss 489,257 revs 268.8 mln 81.7 mln avg shrs 9,245,247 8,035,326 year shr loss 17 cts loss 20 cts net 1,512,534 loss 1,553,592 revs 1,448,310 515,225 avg shrs 8,745,132 7,619,863

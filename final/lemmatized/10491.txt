@@ -1,1 +1,1 @@
-cocoa BUFFER stock RULES effect IMMEDIATELY   delegate cocoa BUFFER stock RULES effect IMMEDIATELY   delegate
+cocoa buffer stock rule effect immediately   delegate cocoa buffer stock rule effect immediately   delegate

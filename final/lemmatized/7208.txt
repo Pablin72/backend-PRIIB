@@ -1,1 +1,1 @@
-DOMTAR set TWOFORONE stock SPLIT effect 14 DOMTAR set twoforone stock SPLIT effect 14
+domtar set twoforone stock split effect 14 domtar set twoforone stock split effect 14

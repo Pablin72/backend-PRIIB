@@ -1,1 +1,1 @@
-MICROSIZE ltMSIZ 2ND QTR ENDS FEB 28 NET Shr profit cent loss 26 cts Net profit 59198 loss 132702 Revs 634616 485730 mths Shr profit cent loss cts Net profit 49669 loss 208278 Revs 1056452 944330
+microsize ltmsiz 2nd qtr ends feb 28 net shr profit cent loss 26 cts net profit 59198 loss 132702 revs 634616 485730 mths shr profit cent loss cts net profit 49669 loss 208278 revs 1056452 944330

@@ -1,1 +1,1 @@
-QUESTECH &lt;QTEC> YEAR NET Shr loss nil profit 19 cts Net loss 3,175 profit 284,945 Revs 13.6 mln 10.6 mln Year Shr profit 13 cts profit 56 cts Net profit 195,202 profit 857,006 Revs 47.5 mln 42.9 mln Note: Current year net includes charge discontinued operations 1,060,848 dlrs.
+questech &lt;qtec> year net shr loss nil profit 19 cts net loss 3,175 profit 284,945 revs 13.6 mln 10.6 mln year shr profit 13 cts profit 56 cts net profit 195,202 profit 857,006 revs 47.5 mln 42.9 mln note: current year net includes charge discontinued operations 1,060,848 dlrs.

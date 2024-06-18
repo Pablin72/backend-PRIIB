@@ -1,1 +1,1 @@
-DATA GENERAL 182 MLN DLR PRETAX CHARGE REDEEM 150 MLN DLRS DEBT DATA GENERAL 182 MLN DLR PRETAX CHARGE REDEEM 150 MLN DLRS DEBT
+data general 182 mln dlr pretax charg redeem 150 mln dlrs debt data general 182 mln dlr pretax charg redeem 150 mln dlrs debt

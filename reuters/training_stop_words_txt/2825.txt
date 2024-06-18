@@ -1,1 +1,1 @@
-EPITOPE &lt;EPTO> 1ST QTR DEC 31 LOSS Shr loss 24 cts loss cts Net loss 216,697 loss 47,344 Sales 144,403 118,391
+epitope &lt;epto> 1st qtr dec 31 loss shr loss 24 cts loss cts net loss 216,697 loss 47,344 sales 144,403 118,391

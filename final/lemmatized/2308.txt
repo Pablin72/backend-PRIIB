@@ -1,1 +1,1 @@
-SAFECARD SERVICES ltSFCD sets SPLIT UPS PAYOUT SafeCard Services board declare threefortwo stock split maintain quarterly dividend postsplit share cts pay effective 50 pct increase split dividend payable April 30 holder record March 31
+safecard service ltsfcd set split up payout safecard services board declare threefortwo stock split maintain quarterly dividend postsplit share cts pay effective 50 pct increase split dividend payable april 30 holder record march 31

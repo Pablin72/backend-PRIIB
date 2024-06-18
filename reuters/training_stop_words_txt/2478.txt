@@ -1,1 +1,1 @@
-ELXSI &lt;ELXSF> 4TH QTR LOSS Shr loss cts loss 34 cts Net loss 2,922,000 loss 19.9 mln Revs 4,071,000 8,012,000 Year Shr loss 23 cts loss 79 cts Net loss 17.3 mln loss 46.2 mln Revs 22.4 mln 28.6 mln
+elxsi &lt;elxsf> 4th qtr loss shr loss cts loss 34 cts net loss 2,922,000 loss 19.9 mln revs 4,071,000 8,012,000 year shr loss 23 cts loss 79 cts net loss 17.3 mln loss 46.2 mln revs 22.4 mln 28.6 mln

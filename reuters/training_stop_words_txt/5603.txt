@@ -1,1 +1,1 @@
-SKIPPERS &lt;SKIP> SEMI-ANNUAL DIVIDEND Semi-annual div cts cts Pay April 30 Record April 9
+skippers &lt;skip> semi-annual dividend semi-annual div cts cts pay april 30 record april 9

@@ -1,1 +1,1 @@
-FILTERTEK ltftk sets QUARTERLY Qtly div 11 ct 11 ct prior pay 15 record
+filtertek ltftk set quarterly qtly div 11 ct 11 ct prior pay 15 record

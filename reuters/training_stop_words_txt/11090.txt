@@ -1,1 +1,1 @@
-IMPERIAL BANCORP &lt;IBAN> SETS PCT DIVIDEND Imperial Bancorp declared pct stock dividend, payable 29 shareholders record April 17.
+imperial bancorp &lt;iban> sets pct dividend imperial bancorp declared pct stock dividend, payable 29 shareholders record april 17.

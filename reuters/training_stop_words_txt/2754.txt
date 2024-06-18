@@ -1,1 +1,1 @@
-WRITER CORP &lt;WRTC> 4TH QTR LOSS Shr loss 30 cts profit 11 cts Net loss 1,247,000 profit 454,000 Revs 12.3 mln 17.5 mln Year Shr loss 24 cts profit 32 cts Net loss 979,000 profit 1,303,000 Revs 60.6 mln 61.7 mln
+writer corp &lt;wrtc> 4th qtr loss shr loss 30 cts profit 11 cts net loss 1,247,000 profit 454,000 revs 12.3 mln 17.5 mln year shr loss 24 cts profit 32 cts net loss 979,000 profit 1,303,000 revs 60.6 mln 61.7 mln

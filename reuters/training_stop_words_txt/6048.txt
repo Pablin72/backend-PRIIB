@@ -1,1 +1,1 @@
-CLOTHESTIME &lt;CTME> 4TH QTR NET Shr 12 cts 10 cts Net 1,683,000 1,407,000 Sales 42.2 mln 28.8 mln Year Shr 83 cts 70 cts Net 11,908,000 10,005,000 sales 160.3 mln 126.5 mln
+clothestime &lt;ctme> 4th qtr net shr 12 cts 10 cts net 1,683,000 1,407,000 sales 42.2 mln 28.8 mln year shr 83 cts 70 cts net 11,908,000 10,005,000 sales 160.3 mln 126.5 mln

@@ -1,1 +1,1 @@
-THERMO PROCESS &lt;TPSI> COMPLETES ACQUSITION Thermo Process Systems completed purchase Thermo Process Services Inc, subsidiary Thermo Electron Corp &lt;TMO>. Thermo Process Systems issued 2,590,000 shares common stock Thermo Electron connection sale.
+thermo process &lt;tpsi> completes acqusition thermo process systems completed purchase thermo process services inc, subsidiary thermo electron corp &lt;tmo>. thermo process systems issued 2,590,000 shares common stock thermo electron connection sale.

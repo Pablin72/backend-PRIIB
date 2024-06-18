@@ -1,1 +1,1 @@
-COMPUSCAN &lt;CSCN> 3RD QTR FEB 28 NET Shr loss cts loss 20 cts Net loss 469,000 loss 1,104,000 Revs 3,093,000 3,056,000 mths Shr loss 19 cts loss 29 cts Net loss 1,098,000 1,646,000 Revs 9,562,000 12.2 mln
+compuscan &lt;cscn> 3rd qtr feb 28 net shr loss cts loss 20 cts net loss 469,000 loss 1,104,000 revs 3,093,000 3,056,000 mths shr loss 19 cts loss 29 cts net loss 1,098,000 1,646,000 revs 9,562,000 12.2 mln

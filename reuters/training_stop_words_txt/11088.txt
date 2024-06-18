@@ -1,1 +1,1 @@
-GENOVA &lt;GNVA> MERGE GENOVA PRODUCTS Genova shareholders approved merger &lt;Genova Products Inc>, consumated days. agreement, Genova shareholders receive 5.375 dlrs share cash.
+genova &lt;gnva> merge genova products genova shareholders approved merger &lt;genova products inc>, consumated days. agreement, genova shareholders receive 5.375 dlrs share cash.

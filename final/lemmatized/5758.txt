@@ -1,1 +1,1 @@
-PAYNSAVE ltPAYN 1st QTR JAN 31 NET Shr profit ct loss 14 ct net profit 279000 loss 1896000 sale 1996 mln 1424 mln
+paynsave ltpayn 1st qtr jan 31 net shr profit ct loss 14 ct net profit 279000 loss 1896000 sale 1996 mln 1424 mln

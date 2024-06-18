@@ -1,1 +1,1 @@
-RYKOFF-SEXTON &lt;RYK> 3RD QTR JAN 31 NET Shr 21 cts 28 cts Net 1,456,000 1,925,000 Sales 258.7 mln 290.2 mln Mths Shr 77 cts 1.10 dlrs Net 5,384,000 7,658,000 Sales 804.3 mln 760.1 mln
+rykoff-sexton &lt;ryk> 3rd qtr jan 31 net shr 21 cts 28 cts net 1,456,000 1,925,000 sales 258.7 mln 290.2 mln mths shr 77 cts 1.10 dlrs net 5,384,000 7,658,000 sales 804.3 mln 760.1 mln
