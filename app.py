@@ -49,11 +49,13 @@ def stemmed_tfidf_cosine():
 def stemmed_bow_jaccard():
     data = request.json
     query = data.get('query')
+    print("my query: ", query)
     query = clean_query(query)
 
     similarity_df = similarity.stemmed_bow_jaccard_similarity_search(query)
     print(similarity_df)
     similarity_json = similarity_df.to_dict(orient='records')
+    print("sorting results and return")
 
     return jsonify(similarity_json)
 
