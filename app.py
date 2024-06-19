@@ -3,6 +3,8 @@ from flask_cors import CORS
 import similarity
 import re
 import os
+import spacy
+import snowballstemmer
 
 DOCUMENTS_DIR = 'reuters/training_txt'
 
@@ -10,15 +12,24 @@ DOCUMENTS_DIR = 'reuters/training_txt'
 app = Flask(__name__)
 CORS(app)
 
+# Función para lematizar y stematizar texto
+def preprocess_text(text):
+    doc = nlp(text)
+    stemmed_tokens = [stemmer.stemWord(token.text) for token in doc]
+    lemmatized_tokens = [token.lemma_ for token in doc]
+    return ' '.join(stemmed_tokens), ' '.join(lemmatized_tokens)
+
 def clean_query(query):
     # Limpiamos la query
     stop_words_file = 'reuters/stopwords.txt'
     with open(stop_words_file, 'r', encoding='utf-8') as file:
         stop_words = set(file.read().split())
 
+    query = query.lower()
     cleaned_query = ' '.join([word for word in query.split() if word.lower() not in stop_words])
     cleaned_query = re.sub(r'[^A-Za-z0-9\s]', '', cleaned_query)
-    return cleaned_query
+    stemmed_query, lemmatized_query = preprocess_text(cleaned_query)
+    return lemmatized_query
 
 @app.route('/')
 def serve_index():
@@ -88,4 +99,9 @@ def lemmatized_bow_jaccard():
     return jsonify(similarity_json)
 
 if __name__ == '__main__':
+    # Cargar el modelo de lenguaje de spaCy
+    nlp = spacy.load('en_core_web_sm')
+
+    # Inicializar el stemmer
+    stemmer = snowballstemmer.stemmer('english')
     app.run(debug=True)
