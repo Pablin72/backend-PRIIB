@@ -8,7 +8,7 @@ def ensure_directory_exists(directory):
         os.makedirs(directory)
 
 def tfidf_lemmatized(directory='final/lemmatized'):
-    # Ensure the output directory exists
+
     ensure_directory_exists('final/TF-IDF')
 
     filenames = []
@@ -21,12 +21,10 @@ def tfidf_lemmatized(directory='final/lemmatized'):
             filenames.append(filename)
 
     vectorizer_tfidf_lemmatized = TfidfVectorizer()
-    # matrix of tf-idf scores
-    # row -> document
-    # column -> token
+
     X_tfidf_lemmatized = vectorizer_tfidf_lemmatized.fit_transform(all_sentences)
 
-    # Save the vectorizer and transformed data
+    # Guardar el vectorizador y los datos transformados.
     with open('final/TF-IDF/lemmatized_vectorizer_tfidf.pkl', 'wb') as vec_file:
         pickle.dump(vectorizer_tfidf_lemmatized, vec_file)
     
@@ -36,11 +34,11 @@ def tfidf_lemmatized(directory='final/lemmatized'):
     with open('final/TF-IDF/lemmatized_filenames.pkl', 'wb') as f_file:
         pickle.dump(filenames, f_file)
 
-    # array of tokens that correspond to each column
+    # conjunto de tokens que corresponden a cada columna
     terms_tfidf_lemmatized = vectorizer_tfidf_lemmatized.get_feature_names_out()
 
-    # convert sparse matrix to dense matrix
-    # each row corresponds to a sentence and each column corresponds to a token
+    # convertir matriz dispersa en matriz densa
+    # cada fila corresponde a una oración y cada columna corresponde a un token
     X_tfidf_lemmatized = X_tfidf_lemmatized.toarray()
 
     print('TF-IDF lemmatized matrix finished!')
@@ -48,7 +46,7 @@ def tfidf_lemmatized(directory='final/lemmatized'):
     return X_tfidf_lemmatized
 
 def tfidf_stemmed(directory='final/stemmed'):
-    # Ensure the output directory exists
+
     ensure_directory_exists('final/TF-IDF')
 
     filenames = []
@@ -61,12 +59,10 @@ def tfidf_stemmed(directory='final/stemmed'):
             filenames.append(filename)
 
     vectorizer_tfidf_stemmed = TfidfVectorizer()
-    # matrix of tf-idf scores
-    # row -> document
-    # column -> token
+
     X_tfidf_stemmed = vectorizer_tfidf_stemmed.fit_transform(all_sentences)
 
-    # Save the vectorizer and transformed data
+    # Guardar el vectorizador y los datos transformados.
     with open('final/TF-IDF/stemmed_vectorizer_tfidf.pkl', 'wb') as vec_file:
         pickle.dump(vectorizer_tfidf_stemmed, vec_file)
     
@@ -76,11 +72,11 @@ def tfidf_stemmed(directory='final/stemmed'):
     with open('final/TF-IDF/stemmed_filenames.pkl', 'wb') as f_file:
         pickle.dump(filenames, f_file)
 
-    # array of tokens that correspond to each column
+    # conjunto de tokens que corresponden a cada columna
     terms_tfidf = vectorizer_tfidf_stemmed.get_feature_names_out()
 
-    # convert sparse matrix to dense matrix
-    # each row corresponds to a sentence and each column corresponds to a token
+    # convertir matriz dispersa en matriz densa
+    # cada fila corresponde a una oración y cada columna corresponde a un token
     X_tfidf_stemmed = X_tfidf_stemmed.toarray()
 
     print('TF-IDF stemmed matrix finished!')

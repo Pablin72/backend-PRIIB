@@ -8,7 +8,6 @@ import snowballstemmer
 
 DOCUMENTS_DIR = 'reuters/training_txt'
 
-# app = Flask(__name__, static_folder='static')
 app = Flask(__name__)
 CORS(app)
 
@@ -41,7 +40,7 @@ def get_doc():
     if not doc_id:
         return jsonify({"error": "doc_id is required"}), 400
     
-    file_path = os.path.join(DOCUMENTS_DIR, f"{doc_id}")  # Assuming files are in .txt format
+    file_path = os.path.join(DOCUMENTS_DIR, f"{doc_id}")  # asumimos que los documentos tienen la extension .txt
     if not os.path.isfile(file_path):
         return None
     with open(file_path, 'r') as file:
@@ -101,7 +100,6 @@ def lemmatized_bow_jaccard():
 if __name__ == '__main__':
     # Cargar el modelo de lenguaje de spaCy
     nlp = spacy.load('en_core_web_sm')
-
     # Inicializar el stemmer
     stemmer = snowballstemmer.stemmer('english')
     app.run(debug=True)
