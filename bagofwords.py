@@ -20,12 +20,10 @@ def bagofwords_stemmed(directory='final/Stemmed'):
             filenames.append(filename)
 
     vectorizer_bow_stemmed = CountVectorizer()
-    # matrix of tokens counts
-    # row -> document
-    # column -> token
+
     X_bow_stemmed = vectorizer_bow_stemmed.fit_transform(all_sentences)
 
-    # Save the vectorizer and transformed data
+    # Guardar el vectorizador y los datos transformados.
     with open('final/BOW/Stemmed_vectorizer_bow.pkl', 'wb') as vec_file:
         pickle.dump(vectorizer_bow_stemmed, vec_file)
     
@@ -35,11 +33,11 @@ def bagofwords_stemmed(directory='final/Stemmed'):
     with open('final/BOW/Stemmed_filenames.pkl', 'wb') as f_file:
         pickle.dump(filenames, f_file)
 
-    # array of tokens that correspond to each column
+    # conjunto de tokens que corresponden a cada columna
     terms_bow_stemmed = vectorizer_bow_stemmed.get_feature_names_out()
 
-    # convert sparse matrix to dense matrix
-    # each row corresponds to a sentence and each column corresponds to a token
+    # convertir matriz dispersa en matriz densa
+    # cada fila corresponde a una oración y cada columna corresponde a un token
     X_bow_stemmed = X_bow_stemmed.toarray()
 
     print('Bag of words  Stemmed matrix finished!')
@@ -58,12 +56,10 @@ def bagofwords_lemmatized(directory='final/lemmatized'):
             filenames.append(filename)
 
     vectorizer_bow_lemmatized = CountVectorizer()
-    # matrix of tokens counts
-    # row -> document
-    # column -> token
+
     X_bow_lemmatized = vectorizer_bow_lemmatized.fit_transform(all_sentences)
 
-    # Save the vectorizer and transformed data
+    # Guardar el vectorizador y los datos transformados.
     with open('final/BOW/lemmatized_vectorizer_bow.pkl', 'wb') as vec_file:
         pickle.dump(vectorizer_bow_lemmatized, vec_file)
     
@@ -73,11 +69,11 @@ def bagofwords_lemmatized(directory='final/lemmatized'):
     with open('final/BOW/lemmatized_filenames.pkl', 'wb') as f_file:
         pickle.dump(filenames, f_file)
 
-    # array of tokens that correspond to each column
+    # conjunto de tokens que corresponden a cada columna
     terms_bow_stemmed = vectorizer_bow_lemmatized.get_feature_names_out()
 
-    # convert sparse matrix to dense matrix
-    # each row corresponds to a sentence and each column corresponds to a token
+    # convertir matriz dispersa en matriz densa
+    # cada fila corresponde a una oración y cada columna corresponde a un token
     X_bow_lemmatized = X_bow_lemmatized.toarray()
 
     print('Bag of words lemmatized matrix finished!')
