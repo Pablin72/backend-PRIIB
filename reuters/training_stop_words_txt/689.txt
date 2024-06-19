@@ -1,1 +1,0 @@
-rospatch respond diagnostic bid rospatch respond diagnostic bid
