@@ -1,0 +1,1 @@
+syms corp ltsym 4th qtr shr 43 ct 25 ct net 76 mln 44 mln revs 720 mln 669 mln year shr 84 ct 72 ct net 148 mln 127 mln revs 2231 mln 2152 mln note 1986 4th qtr inlude gain 26 mln dlrs sale real estate

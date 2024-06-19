@@ -1,0 +1,1 @@
+medtronic ltmdt set payout qtly dividend 22 ct 22 ct pay april 30 record april 10

@@ -1,0 +1,1 @@
+citibank sell markaustralian dlr warrant citicorp behalf citibank na subsidiary issue 100000 naked currency warrant price 6712 mark purchase australian dlrs mark rate 11825 mark australian dlr current rate 12850 mark australian dlr warrant nominal amount 1000 mark minimum purchase 100 warrant warrant expire january 8 1988 payment due april 8 warrant list luxembourg stock exchange
